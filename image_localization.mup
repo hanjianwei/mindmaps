@@ -1,0 +1,36 @@
+{
+  "title": "Localization",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Applications",
+      "id": 5,
+      "attr": {
+        "style": {
+          "background": "#FFD700"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Navigation",
+          "id": 6
+        },
+        "2": {
+          "title": "Augmented Reality",
+          "id": 8
+        },
+        "1.5": {
+          "title": "Photo collections visualization",
+          "id": 9
+        }
+      }
+    }
+  },
+  "links": [],
+  "attr": {
+    "style": {
+      "background": "#00FF7F"
+    }
+  }
+}
