@@ -3,118 +3,6 @@
   "id": 1,
   "formatVersion": 2,
   "ideas": {
-    "1": {
-      "title": "Applications",
-      "id": 5,
-      "attr": {
-        "style": {
-          "background": "#FFD700"
-        },
-        "collapsed": true
-      },
-      "ideas": {
-        "1": {
-          "title": "Navigation",
-          "id": 6,
-          "attr": {
-            "style": {
-              "background": "#00BFFF"
-            }
-          }
-        },
-        "2": {
-          "title": "Augmented Reality",
-          "id": 8,
-          "attr": {
-            "style": {
-              "background": "#00BFFF"
-            }
-          }
-        },
-        "1.5": {
-          "title": "Photo collections vis",
-          "id": 9,
-          "attr": {
-            "style": {
-              "background": "#00BFFF"
-            }
-          }
-        }
-      }
-    },
-    "2": {
-      "title": "Datasets",
-      "id": 25,
-      "attr": {
-        "style": {
-          "background": "#FFD700"
-        },
-        "collapsed": true
-      },
-      "ideas": {
-        "1": {
-          "title": "Dubrovnik",
-          "id": 26,
-          "attr": {
-            "style": {
-              "background": "#00BFFF"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "More clustered views",
-              "id": 30,
-              "attr": {
-                "style": {
-                  "background": "#FFFACD"
-                }
-              }
-            }
-          }
-        },
-        "2": {
-          "title": "Rome",
-          "id": 27,
-          "attr": {
-            "style": {
-              "background": "#00BFFF"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "Distinct landmarks",
-              "id": 31,
-              "attr": {
-                "style": {
-                  "background": "#FFFACD"
-                }
-              }
-            }
-          }
-        },
-        "3": {
-          "title": "Vienna",
-          "id": 28,
-          "attr": {
-            "style": {
-              "background": "#00BFFF"
-            },
-            "collapsed": true
-          },
-          "ideas": {
-            "1": {
-              "title": "Uniform intervals",
-              "id": 29,
-              "attr": {
-                "style": {
-                  "background": "#FFFACD"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     "3": {
       "title": "Matching",
       "id": 37,
@@ -172,8 +60,7 @@
           "attr": {
             "style": {
               "background": "#00BFFF"
-            },
-            "collapsed": true
+            }
           }
         },
         "2": {
@@ -456,6 +343,115 @@
         "2": {
           "title": "Average time",
           "id": 35,
+          "attr": {
+            "style": {
+              "background": "#00BFFF"
+            }
+          }
+        }
+      }
+    },
+    "-12": {
+      "title": "Datasets",
+      "id": 25,
+      "attr": {
+        "style": {
+          "background": "#FFD700"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Dubrovnik",
+          "id": 26,
+          "attr": {
+            "style": {
+              "background": "#00BFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "More clustered views",
+              "id": 30,
+              "attr": {
+                "style": {
+                  "background": "#FFFACD"
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Rome",
+          "id": 27,
+          "attr": {
+            "style": {
+              "background": "#00BFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Distinct landmarks",
+              "id": 31,
+              "attr": {
+                "style": {
+                  "background": "#FFFACD"
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "title": "Vienna",
+          "id": 28,
+          "attr": {
+            "style": {
+              "background": "#00BFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Uniform intervals",
+              "id": 29,
+              "attr": {
+                "style": {
+                  "background": "#FFFACD"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "-22": {
+      "title": "Applications",
+      "id": 5,
+      "attr": {
+        "style": {
+          "background": "#FFD700"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Navigation",
+          "id": 6,
+          "attr": {
+            "style": {
+              "background": "#00BFFF"
+            }
+          }
+        },
+        "2": {
+          "title": "Augmented Reality",
+          "id": 8,
+          "attr": {
+            "style": {
+              "background": "#00BFFF"
+            }
+          }
+        },
+        "1.5": {
+          "title": "Photo collections vis",
+          "id": 9,
           "attr": {
             "style": {
               "background": "#00BFFF"
